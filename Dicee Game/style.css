@@ -1,0 +1,20 @@
+body {
+  background-color: gray;
+  text-align: center;
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+h1{
+  font-family: sans-serif;
+  font-size: 5rem;
+
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 2rem;
+}
